@@ -1,0 +1,1 @@
+INSERT into employee ( name, salary) values('SIDO',10000);
